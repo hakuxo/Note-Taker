@@ -19,7 +19,7 @@
   ## Usage
   To use this application, simply write in your note and click the save button! It will then be saved in your storage! If you decide you dont want a note anymore, simply   press the trashcan button to delete it.
 
-  ##License 
+  ## License 
   This project is covered under the MIT license. To learn more about what this license is, please click the license button at the top!
 
   ## Questions 
