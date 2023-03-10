@@ -29,4 +29,4 @@
   Jillian
   
   ## Links
-  https://git.heroku.com/notes-taker-express.git
+  https://notes-taker-express.herokuapp.com/
